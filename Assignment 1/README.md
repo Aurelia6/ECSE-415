@@ -1,4 +1,4 @@
-The folder 'Assignment 1 - Aurélia Haas' contains 2 elements:
+The folder 'Assignment 1' contains 2 elements:
 - README file
 - Assignement1.ipynb
 
